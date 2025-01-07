@@ -11,8 +11,7 @@ Enter your mother name <input type="text" name="" value="" placeholder="Mother N
 
 Enter your Mob.No.<input type="text" name="" value="" placeholder="Mob.NO."><br/><br/>
 
-You Are Above 18 years<input type="Radio" name="yes"> </center>
-
+You Are Above 18 years<input type="Radio" name="yes"> 
 </head>
 <body>
 
