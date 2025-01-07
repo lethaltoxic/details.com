@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Enter Your Details </title>
+	<title> </title>
 Enter your name <input type="text" name="" value="" placeholder="Name"><br/>
 
 Enter your father name <input type="text" name="" value="" placeholder="Father Name"><br/>
@@ -11,7 +11,7 @@ Enter your mother name <input type="text" name="" value="" placeholder="Mother N
 
 Enter your Mob.No.<input type="text" name="" value="" placeholder="Mob.NO."><br/>
 
-You Are Above 18 years<input type="Radio" name="yes"> </center>
+You Are Above 18 years<input type="Radio" name="yes"> 
 
 </head>
 <body>
